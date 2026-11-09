@@ -1,0 +1,8 @@
+{
+    "name": "typescript-shape",
+    "version": "1.0.0",
+    "description": "Bài thực hành về lớp, interface và tính kế thừa trong TypeScript",
+    "dependencies": {
+        "typescript": "^4.1.5"
+    }
+}
